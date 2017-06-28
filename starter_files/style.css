@@ -12,3 +12,17 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+
+#site_header{
+  background-color: #ff8523;
+  padding: 20px;
+}
+
+.main_navigation a{
+  color: white;
+  border-color: white;
+  border-width: thin;
+  border-style: solid;
+  text-decoration: none;
+  padding: 10px;
+}
